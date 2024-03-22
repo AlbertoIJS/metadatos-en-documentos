@@ -22,3 +22,6 @@ para únicamente ser compartido dicho repo y dentro de él se puedan leer las in
 ```bash
 python3 main.py
 ```
+
+### Imagen de la ejecución del script:
+![[Ejecución del script]](/assets/console.png)
