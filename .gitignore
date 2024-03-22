@@ -1,0 +1,14 @@
+*.pdf
+*.docx
+*.xlsx
+
+# Python venv
+/bin/*
+/lib/*
+/docx-template
+/include
+lib64
+pyvenv.cfg
+
+# IDE
+.ideaa/*
